@@ -1,5 +1,5 @@
 # Frontend System Design Problems
-A bunch of system design problems, from a frontend perspective. Feel free to send a PR if you find something amiss. Accepting new problems too.
+A bunch of system design problems, from a frontend perspective. Feel free to send a PR if you find something amiss. Accepting new problem statements.
 
 ### Table of Contents
 
