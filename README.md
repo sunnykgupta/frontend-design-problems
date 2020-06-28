@@ -19,11 +19,11 @@ A bunch of system design problems, from a frontend perspective. Feel free to sen
 
 ### Contributing:
 
-- To add a new question, edit this README.md file, send a PR for review and approval 👍
+- To add a new question, edit this README.md file, send a PR against the `draft` branch for review and approval 👍
 - To add a new answer
   - Copy the `0.Sample.md` file located at repo root.
   - Rename it to `<problemnumber>.<yourusername>.md` e.g. `1.sunnykgupta.md`.
-  - raise a PR 👍
+  - raise a PR against the `draft` branch 👍
 
 ### FAQ:
 
